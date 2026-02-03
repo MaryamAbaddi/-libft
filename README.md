@@ -45,7 +45,7 @@ Character Check Functions
 ft_isalpha
 ft_isdigit
 ft_isalnum
-ft_isascii
+ft_isascii 
 ft_isprint
 
 Conversion Functions
